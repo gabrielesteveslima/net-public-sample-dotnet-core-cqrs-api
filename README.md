@@ -1,4 +1,4 @@
-Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
+NET Core REST API CQRS with raw SQL and DDD using Clean Architecture.
 ==============================================================
 
 ## Description
